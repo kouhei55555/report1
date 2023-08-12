@@ -71,13 +71,14 @@
 @media screen and (max-width: 768px) {
   .main {
     width: 100%;
+    margin: 50px 0;
     display: block;
   }
   
   .box {
     width: 90%;
-    margin-right: 0;
-    margin-bottom: 10px;
+    margin: 0 5%;
+    margin-bottom: 20px;
   }
   
   .box:last-child {
